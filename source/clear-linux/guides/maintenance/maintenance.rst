@@ -15,4 +15,3 @@ maintaining |CLOSIA| after :ref:`installation <get-started>` is completed.
    mixer
    validate-signatures
    telemetry-enable
-   download-image
